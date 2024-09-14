@@ -4,7 +4,7 @@ public class HelloWorld {
         System.out.println("Hello world git and gti hub");
 
         for (int i = 0; i < 5; i++) {
-            System.out.println("Git-hub");
+            System.out.println("Git-hub and git");
         }
     }    
 }
