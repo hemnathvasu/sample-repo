@@ -1,7 +1,7 @@
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello world git and gti hub");
+        System.out.println("Hello world git and git hub");
 
         for (int i = 0; i < 5; i++) {
             System.out.println("Git-hub and git");
